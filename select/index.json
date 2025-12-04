@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あいす",
+  "base_artist": "z²",
+  "createdAt": "2025-12-04T07:50:24.044079Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あいす",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/pl_01_あいす_z2.txt"
+    }
+  ]
+}
